@@ -120,3 +120,7 @@ portfolio-tracker/
 │
 └── .gitignore
 ```
+
+## 📄 Lizenz
+
+Dieses Projekt steht unter der [MIT-Lizenz](LICENSE).
